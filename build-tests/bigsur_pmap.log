@@ -1,0 +1,1 @@
+PASS: 86016 actual bridge executions, all GPRs/defined flags/stack unchanged except displaced outputs and admitted UC correction; hit/skip counters and first-sample path

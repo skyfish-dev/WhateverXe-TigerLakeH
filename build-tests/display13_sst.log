@@ -1,0 +1,2 @@
+PASS production Display13 signal/SST: 720 compositions after peer release, 39 admission/power/MMIO faults, native error/power-loss/HDMI preservation
+PASS main-link AUX: transaction independence, 720 repeated-enable/stop cycles, partial failure/idle timeout/foreign owner guards

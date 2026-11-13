@@ -71,6 +71,7 @@ struct XE {
  bool display12SmallGTReady=false, adlsDisplayHooksReady=false;
  bool adlsBootConsumersFailed=false;
  bool tglRequested=false, tglAcceleratorRequested=false;
+ bool tglSkipGPUTicks=false;
  bool tglInactivePorts=false, tglPG1Poll=false, tglClockOrderRequested=false;
  bool tglProgramEnabled=false, tglTrainingLeaseRequested=false;
  struct { bool available=false; } modDVMTCalcFix;
@@ -83,6 +84,12 @@ static bool adlnNativeRCSProfileRequested;
 using kern_return_t = int;
 struct kmod_info_t {};
 static constexpr int KERN_FAILURE=5, KERN_SUCCESS=0;
+struct IORegistryEntry {
+ static IORegistryEntry entry;
+ static IORegistryEntry *getRegistryRoot(){return &entry;}
+ bool setProperty(const char *,bool){return true;}
+};
+IORegistryEntry IORegistryEntry::entry;
 // ACTUAL_SOURCE
 // PREREQUISITES
 static XE boot(std::initializer_list<const char *> names, uint32_t pci=0x46D28086,uint32_t effective=0) {

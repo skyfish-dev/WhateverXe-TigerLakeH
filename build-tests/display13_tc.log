@@ -1,0 +1,1 @@
+PASS ADL-N TC1..4: literal coordinates/PLL stride, PW2/AUX lease order, nested refs, suspend/restore, health rollback, ownership/adoption/drain. CPU only.

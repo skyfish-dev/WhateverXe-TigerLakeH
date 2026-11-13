@@ -1,0 +1,2 @@
+PASS: bootstrap 64 active-port masks; unresolved/foreign/temporary-reference refusals; retained failed block/unblock; retry and no premature last-unblock
+PASS: transport errors/deadlines/retries; 720 3-port 4-use lifetime orders; handoff, failed acquire/release, wrong-owner/scope, overflow; concurrent callers and shared simulated native mailbox

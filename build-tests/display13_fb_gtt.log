@@ -1,0 +1,1 @@
+PASS AlderLakeN auxiliary GGTT: disjoint cursor/DSB ranges, system-memory flags, DMA alignment/span/overflow, bounded write-readback failure. CPU only.

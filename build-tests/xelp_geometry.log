@@ -1,0 +1,1 @@
+PASS 336 linear geometry cases: RGB24/30, 320..7680 pixels, 240..4320 lines, padding, actual timing and bounded ranges. CPU only.

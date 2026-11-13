@@ -1,0 +1,1 @@
+PASS production DSI cache: native object binding, split timing/pipe fields, coherent snapshots, no partial publication, no PWM, failure latch and external fallback

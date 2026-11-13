@@ -1,0 +1,2 @@
+PASS 8192 FB/render preflight combinations: noaccel preserves FB memory, never admits render
+PASS 96 independent Display/Render dispatch cases, native preflight rejection and load-only routing

@@ -1,0 +1,1 @@
+PASS production PHY clock gating: native DP-alt calls unchanged, legacy preservation retained across TC1..4 and 1/2/4 lanes

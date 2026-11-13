@@ -1,0 +1,1 @@
+PASS actual immutable wiring loader: absent unknown wiring, present-invalid rejection, strict LE schema, overlap/range/version guards, 24 role/port eligibility and lane calls, 3-port intent vs separate backend mask; no hardware qualification

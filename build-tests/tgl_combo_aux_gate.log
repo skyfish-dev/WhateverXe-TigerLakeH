@@ -1,0 +1,1 @@
+PASS: production PHY gate guard; unrelated callers, ports, power request/ACK registers preserved

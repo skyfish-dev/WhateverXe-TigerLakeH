@@ -1,0 +1,1 @@
+PASS production DSI quiesce: real host/IRQ cores, FB-gate-clock-owner ordering, no wait under IRQ lock, actual queues/scopes, PLL/DDI/backing retirement, allocator lock boundary, actual empty-slot/DDB proof, GT/peer preservation and retained failures

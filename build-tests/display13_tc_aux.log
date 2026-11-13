@@ -1,0 +1,1 @@
+PASS 32 TC AUX cases: four channel coordinates, W1C preservation/no command launch, shared-HIP restore/IRQ lifetime, native bridge nested/suspend/restore, bounded health failure and power rollback. CPU only.

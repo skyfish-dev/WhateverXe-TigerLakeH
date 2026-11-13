@@ -1,0 +1,1 @@
+PASS DSI PLL retirement: real host stop required, exclusive owner, peer exclusion, ordered unlock/power ACK, lost-write/timeouts retain allocation, no power-well/peer writes

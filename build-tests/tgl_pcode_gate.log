@@ -1,0 +1,1 @@
+PASS: actual native wrappers preserve args/returns; 500x1us/1ms bounded contention, no unprotected fallback, same-thread recursion rejection, foreign release rejection, TC-cold Busy with zero MMIO, delayed acquisition and 4-thread atomic ownership

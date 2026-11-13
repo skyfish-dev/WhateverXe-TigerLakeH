@@ -1,0 +1,2 @@
+PASS: 43 FIA geometry/failure/wait cases plus 100 paired concurrent claims; per-instance ownership, adjacent-bit preservation, no-power/all-ones refusal, uncertain-write retention
+FIA primitive only: caller must own TC-cold reference and quiesce before release. No kernel/native-mode wiring or physical port qualification.

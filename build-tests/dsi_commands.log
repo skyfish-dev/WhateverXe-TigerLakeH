@@ -1,0 +1,1 @@
+PASS command MMIO adapter: exact LP packet words, payload before header, credit/drain waits, ownership and sticky failures

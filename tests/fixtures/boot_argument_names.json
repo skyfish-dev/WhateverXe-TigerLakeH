@@ -114,6 +114,9 @@
     "-display13trace",
     "-n97displaytrace"
   ],
+  "-wex-skip-gputicks": [],
+  "-wex-tgl-edp-keep": [],
+  "-wex-tgl-edp-softsleep": [],
   "-wex-tgl-off": [
     "-igfxtgloff"
   ],

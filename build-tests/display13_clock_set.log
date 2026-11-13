@@ -1,0 +1,1 @@
+PASS Display13 CDCLK transitions: native Hz, PCODE prepare/error, active crawl, quiescent divider/cold enable, bounded faults. Synthetic IO only.

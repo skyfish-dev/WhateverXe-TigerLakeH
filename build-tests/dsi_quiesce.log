@@ -1,0 +1,1 @@
+PASS DSI host quiesce: cursor/plane/frame then transcoder/ULPS/port, peer preservation, FIFO precondition, bounded failures and no resource release

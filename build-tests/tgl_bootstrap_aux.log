@@ -1,0 +1,1 @@
+PASS actual bootstrap AUX adapter + read/write/I2C wrappers: 36 calls across 6 ports, preserved native errors/data, same-thread same-port nesting, 3-thread 150 I2C operations, bypass/readiness guards; all AUX refs return to bootstrap-only. MMIO PROT_NONE proves no new PCODE request under immutable bootstrap (ASan/UBSan).

@@ -1,0 +1,1 @@
+PASS fixed SysMem GGTT: 2 scatter windows, all-page preflight before writes, actual ownership, empty-window initialization, live mapping preservation, bounded failures/pinning and stopped-consumer scratch retirement.

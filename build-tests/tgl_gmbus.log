@@ -1,0 +1,1 @@
+PASS real GMBUS HW_RDY/NAK polling: delayed readiness, exact deadline, finite timeout, error/unavailable and already-ready fast paths.

@@ -1,0 +1,2 @@
+PASS 4 TC GOP handoffs: power/ownership/clock preservation, plane rollback, GGTT prefix and link drift
+PASS 24 TC SST source/plane/pool handoffs, proof mismatch, drift and rollback

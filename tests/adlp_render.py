@@ -16,6 +16,12 @@ bool noaccel=false;
 bool checkKernelArgument(const char *s){return noaccel && !strcmp(s,"-wex-noaccel");}
 int kextIntelTGL,kextIntelTGLFb;
 bool adlnNativeRCSProfileRequested=false,display13TraceEnabled=false,display13Offline=false;
+struct IORegistryEntry {
+ static IORegistryEntry entry;
+ static IORegistryEntry *getRegistryRoot(){return &entry;}
+ bool setProperty(const char *,bool){return true;}
+};
+IORegistryEntry IORegistryEntry::entry;
 struct XE {
  XELP::Profile xeProfile;
  bool tglGT2Detected=false,tglGT2Ready=false;
@@ -23,6 +29,7 @@ struct XE {
  bool adlnRequested=false,adlnDetected=false,adlnKernelReady=false,adlnNativeRequested=false;
  bool adlpDisplaySelected=false,adlpRenderRequested=false,display13FramebufferRequested=false;
  bool tglRequested=false,tglAcceleratorRequested=false,tglInactivePorts=false,tglPG1Poll=false;
+ bool tglSkipGPUTicks=false;
  bool tglClockOrderRequested=false,tglTrainingLeaseRequested=false,tglProgramEnabled=false;
  int *currentFramebuffer=nullptr,*currentGraphics=nullptr;
  struct {bool available=false;}modDVMTCalcFix;

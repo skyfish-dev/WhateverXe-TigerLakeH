@@ -1,0 +1,1 @@
+PASS actual training wrapper: 1620 port/pipe/lane/pattern/framing cases; 16 no-MMIO admission guards, combo/TC power failures, native order/error, active-neighbor preservation, no FIA access; mock backend qualification only

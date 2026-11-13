@@ -1,0 +1,2 @@
+PASS: moved verifier arguments/calls/accessor field; wrong source, ABI, bounds and overflow rejected
+PASS: 512 independently relocated protect call sites; duplicate, wrong-family/target and embedded bytes rejected

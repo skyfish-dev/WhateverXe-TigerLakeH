@@ -1,0 +1,1 @@
+PASS DSI IRQ live: current counters, read-only state, unlock before allocation/serialization, failure cleanup

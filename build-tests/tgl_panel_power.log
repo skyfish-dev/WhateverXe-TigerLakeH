@@ -1,0 +1,1 @@
+PASS: exact guarded call-site execution; null/on/off/property failure; bad bytes/size/symbol/write rejected
