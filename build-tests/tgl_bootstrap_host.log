@@ -1,1 +1,0 @@
-PASS actual opt-in bootstrap adapter: 11 admission guards, block/retain once, shared-gate contention, timeout, firmware error, exit failure, inaccessible MMIO; no automatic unblock

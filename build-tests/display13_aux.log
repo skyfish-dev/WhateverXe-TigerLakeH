@@ -1,1 +1,0 @@
-PASS Display13 AUX: 120 synthetic transactions; get/put/HAL fault propagation, native errors, no-DDI probe, active-command suspend/put guards, 21 rejected bindings

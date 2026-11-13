@@ -1,5 +1,0 @@
-PASS unused fixed TC firmware ownership: cold-only release, peers, live-resource refusal and readback
-PASS scaled multi-GOP: binding, full destination, primary preservation, secondary detach and drift rejection
-PASS 99 Display boot certificates: physical layouts, PTE corruption, no-read rejection
-PASS mixed Combo/TC GOP handoff into normal Mode/clock start, peer preservation and failure retention
-PASS GOP bootstrap: 96 HDMI/DP combinations, STOP/transport/idle ordering, peer/M-N preservation and bounded failures

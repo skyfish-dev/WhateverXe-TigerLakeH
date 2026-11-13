@@ -1,2 +1,0 @@
-status=8 stage=6 reg=7019c value=0 writes=71
-DSI transfer source/PLL refusal, bounded timeout, ordering and real GOP postcondition passed

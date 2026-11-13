@@ -1,1 +1,0 @@
-PASS DSI command trial: owner/clock locks, no writes before admission, unchanged source, bootstrap-only and one-shot

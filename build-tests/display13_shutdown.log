@@ -1,1 +1,0 @@
-PASS shutdown mode0: live-port exclusion, gate contention, native errors, retry/idempotence, cleanup before power suspend, donor power-off/restart callsites

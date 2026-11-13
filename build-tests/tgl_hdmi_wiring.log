@@ -1,1 +1,0 @@
-PASS actual HDMI loader/topology/GMBUS/lane wrappers: default byte parity, immutable pin1..3 profiles, 225 EDID selections/exclusions, invalid/backend/feature rejection, atomic 2-connector fixture and untouched TC data. Hardware qualification remains separate.

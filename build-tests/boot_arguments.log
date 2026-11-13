@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "/Users/runner/work/WhateverXe-TigerLakeH/WhateverXe-TigerLakeH/tests/boot_arguments.py", line 30, in <module>
-    assert set(names) == used - external
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-AssertionError

@@ -1,2 +1,0 @@
-PASS 120 delayed fuse acquire/restore cases
-PASS Display13 power requests: leases, suspend/restore without count duplication, borrowed requests, bounded faults. Synthetic IO only.

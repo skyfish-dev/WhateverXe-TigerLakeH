@@ -1,6 +1,0 @@
-AlderLakeN BCS context/packet encoding, CPU-only timeout, ownership refusal and retained memory fixtures passed
-AlderLakeN GT forcewake ownership, ACK failure, fuse profile and release fixtures passed
-AlderLakeN identity/resource and powered Display13 readout fixtures passed
-Display13 linear reinitialization, exclusion, vblank and rollback fixtures passed
-AlderLakeN firmware lease qualification, GOP exclusion and exact predecessor restoration fixtures passed
-AlderLakeN owned-GGTT scanout, DMA admission, aperture/flip failures and pinned restore fixtures passed

@@ -1,1 +1,0 @@
-PASS: actual live serializer, 80 control/320 bulk records, ring wrap, live quiet-training DPCD ring, protected MMIO, no allocation under lock

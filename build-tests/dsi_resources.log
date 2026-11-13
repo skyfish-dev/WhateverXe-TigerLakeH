@@ -1,1 +1,0 @@
-PASS production DSI resources: clock-owner-IRQ lock order, retained leases/source, PLL ownership, GGTT readback, atomic mapping publication and retained leases after write failure

@@ -1,1 +1,0 @@
-PASS DSI public mode preflight and native update dispatch: stopped/faulted rejection, held FB serialization, nested cursor/transaction counts, transport-specific attribute/power admission, full-width arguments, native wait lock boundaries, peer and disabled-DSI forwarding

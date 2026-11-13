@@ -1,1 +1,0 @@
-PASS: 129 ACK records, clear-all/4 pipes/normal+fast writes, ring wrap, IRQ restoration; inaccessible MMIO and manager untouched

@@ -1,1 +1,0 @@
-PASS panel cycle: packet/GPIO order, retained host, restart after drain, HPD W1C preservation, bounded failures and no retry

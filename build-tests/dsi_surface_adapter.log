@@ -1,1 +1,0 @@
-PASS production DSI surface: actual MMIO allowlist/WM/latch, GPU/owner/IRQ locking, retained partial switches and stopped cleanup retry

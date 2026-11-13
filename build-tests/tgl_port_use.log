@@ -1,1 +1,0 @@
-PASS port admission: stop/nested calls, persistent training/scanout/cleanup, all 6 three-port drain orders, full capacity cleanup, identity/stale/overflow guards, 100 three-thread stop races (ASan/UBSan). Hardware idle and kernel entry coverage remain host obligations.

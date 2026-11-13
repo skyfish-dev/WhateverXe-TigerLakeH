@@ -1,1 +1,0 @@
-PASS: 10051 events, concurrent coherent snapshots, ring wrap, allocation failure, IRQ restore, no object/MMIO access
